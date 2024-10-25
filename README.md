@@ -1,7 +1,7 @@
   <td align="right">
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=phperazzo&show_icons=true&theme=dracula" />
     
-### Oi, meu nome é Pedro Perazzo!
+### Oi, meu nome é Pedro Perazzo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
  
 
 <p>🎓 Cursando Analise e desenvolvimento de sistemas<br/></p>
