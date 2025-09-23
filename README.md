@@ -4,7 +4,7 @@
 ### Oi, meu nome é Pedro Perazzo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
  
 
-<p>🎓 Cursando Analise e desenvolvimento de sistemas<br/></p>
+<p>🎓 Formado em Analise e desenvolvimento de sistemas ✅<br/>🎓 Cursando Ciências da computação<br/></p>
 
 <a href="https://instagram.com/phperazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-perazzo-740790294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
